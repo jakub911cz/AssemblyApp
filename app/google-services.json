@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "87984992303",
+    "firebase_url": "https://assemblyapp-17bdd.firebaseio.com",
+    "project_id": "assemblyapp-17bdd",
+    "storage_bucket": "assemblyapp-17bdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87984992303:android:9e21611a425ba2e0",
+        "android_client_info": {
+          "package_name": "com.jfa.assemblyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87984992303-h8akpea1c570bmbaejl7vigof9s46k0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jfa.assemblyapp",
+            "certificate_hash": "9d51899feb543881609f2a596a8b184b0e848166"
+          }
+        },
+        {
+          "client_id": "87984992303-n7jvdqorovsrk84e6h2j8vg0isbjnstm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEZNBnZqyI5PcGS3PMQeSlx63-j4cLLdQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87984992303-n7jvdqorovsrk84e6h2j8vg0isbjnstm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
